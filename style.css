@@ -1,0 +1,102 @@
+*{
+    background-color: rgb(39, 39, 39);
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: 0px 0px 2px;
+    font-size: 90px;
+    width: 600px ;
+    margin-left: 650px;
+
+}
+h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    color: white;
+    margin-left: 670px;
+}
+
+#japanh1 {
+    text-shadow: 0px 0px 8px;
+}
+
+#p1 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 55px;
+}
+
+#p2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 55px;
+    margin-top: 50px;
+}
+
+#p3 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 55px;
+    margin-top: 50px;
+}
+
+#facea {
+ width: 450px;
+ height: 450px;
+}
+
+#face2 {
+    width: 450px;
+    height: 450px;
+   }
+
+#drawn {
+    width: 450px;
+    height: 450px;
+}
+
+#drawn2 {
+    width: 450px;
+    height: 450px;
+}
+
+.fotos1 {
+    margin-top: 10px;
+}
+
+#japan1 {
+    text-shadow: 0px 0px 8px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#instagram1 {
+    color: rgb(0, 223, 190);
+}
+
+#about {
+    margin-left: 845px;
+}
+
+#name1 {
+    color: rgb(0, 255, 110);;
+}
+
+#name2 {
+    color: rgb(103, 232, 255);
+}
+
+#hobbie {
+    margin-left: 853px;
+}
+
+#print1 {
+    width: 1280px;
+    height: 720px;
+    margin-left: 275px;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 0px 0px 5px rgb(0, 255, 110);
+}
