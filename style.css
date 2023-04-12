@@ -5,16 +5,37 @@
 h1 {
     font-family: 'Bebas Neue', cursive;
     text-shadow: 0px 0px 2px;
-    font-size: 90px;
-    width: 600px ;
-    margin-left: 650px;
+    font-size: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 h2 {
     font-family: 'Bebas Neue', cursive;
-    font-size: 40px;
+    font-size: 50px;
     color: white;
-    margin-left: 670px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul{
+    list-style: none;
+    background-color: black;
+}
+
+li {
+    background-color: black;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+#about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #japanh1 {
